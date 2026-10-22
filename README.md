@@ -1,3 +1,24 @@
+# TimiWho
+
+[Kurze Änderungsübersicht](AENDERUNGEN_README_2026-10-21.md)
+
+## 🚀 Elektronik, Hausautomation und Software
+
+![Projekte](https://img.shields.io/badge/Projekte-ESP8266%20/%20ESP32-blue) ![Werkzeuge](https://img.shields.io/badge/Werkzeuge-Arduino%20/%20KiCad%20/%20Python-orange)
+
+Bastel- und Softwareprojekte aus Österreich. Die Repositories enthalten eigenständige Geräte-Firmwares, Hardware-Unterlagen, Haussteuerung und Werkzeugsammlungen.
+
+## 📂 Projektübersicht
+
+| Bereich | Beispiele |
+| --- | --- |
+| Hausautomation | [Moeller / OpenCCU / Node-RED](https://github.com/TimiWho/BJ_Moeller_Haussteuerung) |
+| Schaltaktoren | [SSR1 / SSR2](https://github.com/TimiWho/BI_Wemos_Schaltdose_SSR_2A) und [REL1–REL3](https://github.com/TimiWho/BL_Wemos_Schaltdose_REL_10A) |
+| Messung und Anzeige | [Temperaturstationen](https://github.com/TimiWho/BP_Wemos_Temperaturen) und LCD-Fronius |
+| Werkzeuge | [Python-Upload](https://github.com/TimiWho/ZY_PythonUpload) und [Bauteile / Vorlagen](https://github.com/TimiWho/ZZ_TimisLibarys) |
+
+## 👤 Profil, Kontakt und Werkzeuge
+
 <h1 align="center">Hi 👋, I'm TimiWho</h1>
 <h3 align="center">enthusiastic crafter at home from Austria</h3>
 
@@ -10,3 +31,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+[Ursprüngliche Profil-README](README_Backup_2026-10-21.md)
+
+## 🐞 GitHub-Issues
+
+**Abgleich:** 21.10.2026. Status aus GitHub; diese Übersicht ändert keine Issues.
+
+Zum Abgleichzeitpunkt sind keine offenen GitHub-Issues vorhanden.
+
+In diesem Repository sind zum Abgleichzeitpunkt keine GitHub-Issues vorhanden.
+
