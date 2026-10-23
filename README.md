@@ -56,5 +56,3 @@ Für Fragen und Verbesserungsvorschläge zu einem Projekt nutze bitte die **Issu
 [![Profil-Repository: Issues](https://img.shields.io/badge/Profil--Repository-Issues-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/TimiWho/TimiWho/issues)
 
 ---
-
-📄 [Ursprüngliche Profil-README ansehen](README_Backup_2026-10-21.md)
