@@ -19,27 +19,42 @@ Bastel- und Softwareprojekte aus Österreich. Die Repositories enthalten eigenst
 
 ## 👤 Profil, Kontakt und Werkzeuge
 
-<h1 align="center">Hi 👋, I'm TimiWho</h1>
-<h3 align="center">enthusiastic crafter at home from Austria</h3>
+### Servus, ich bin TimiWho! 👋 🇦🇹
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/timiwho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="timiwho" height="30" width="40" /></a>
-<a href="https://instagram.com/timi_who" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="timi_who" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/timi who" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="timi who" height="30" width="40" /></a>
-</p>
+Ich bastle, programmiere und automatisiere – am liebsten Dinge, die im Alltag einen Nutzen haben. Hier teile ich meine Projekte rund um Elektronik, Hausautomation und die passende Software: von der eigenen Platine über die ESP-Firmware bis zur Anzeige in Node-RED.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🔧 **Selber bauen** · 🏠 **Zuhause automatisieren** · 🌡️ **Messwerte sichtbar machen**
 
+### 🌐 Hier findest du mich
 
-[Ursprüngliche Profil-README](README_Backup_2026-10-21.md)
+[![GitHub](https://img.shields.io/badge/GitHub-TimiWho-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TimiWho)
+[![Instagram](https://img.shields.io/badge/Instagram-timi__who-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/timi_who)
+[![YouTube](https://img.shields.io/badge/YouTube-Timi%20Who-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/timi%20who)
+[![X / Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-timiwho-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/timiwho)
 
-## 🐞 GitHub-Issues
+### 🧰 Sprachen und Werkzeuge
 
-**Abgleich:** 21.10.2026. Status aus GitHub; diese Übersicht ändert keine Issues.
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-Zum Abgleichzeitpunkt sind keine offenen GitHub-Issues vorhanden.
+| Bereich | Damit arbeite ich |
+| --- | --- |
+| 🔌 Elektronik & Firmware | ESP8266 / ESP32, Arduino IDE, C++, KiCad |
+| 🏠 Hausautomation & Vernetzung | OpenCCU, Node-RED, MQTT, Raspberry Pi |
+| 💻 Software & Entwicklung | Python, Linux, Visual Studio Code, GitHub |
+| 🌐 Weitere Werkzeuge | PHP, IFTTT |
 
-In diesem Repository sind zum Abgleichzeitpunkt keine GitHub-Issues vorhanden.
+### 🐞 Fragen, Fehler oder Ideen?
 
+Für Fragen und Verbesserungsvorschläge zu einem Projekt nutze bitte die **Issues im jeweiligen Repository**. So bleiben Rückfragen und Lösungen direkt beim passenden Projekt.
+
+[![Profil-Repository: Issues](https://img.shields.io/badge/Profil--Repository-Issues-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/TimiWho/TimiWho/issues)
+
+---
+
+📄 [Ursprüngliche Profil-README ansehen](README_Backup_2026-10-21.md)
