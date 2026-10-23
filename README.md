@@ -1,7 +1,5 @@
 # TimiWho
 
-[Kurze Änderungsübersicht](AENDERUNGEN_README_2026-10-21.md)
-
 ## 🚀 Elektronik, Hausautomation und Software
 
 ![Projekte](https://img.shields.io/badge/Projekte-ESP8266%20/%20ESP32-blue) ![Werkzeuge](https://img.shields.io/badge/Werkzeuge-Arduino%20/%20KiCad%20/%20Python-orange)
